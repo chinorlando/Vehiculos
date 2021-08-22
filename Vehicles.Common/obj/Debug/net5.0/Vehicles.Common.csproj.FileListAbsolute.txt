@@ -1,0 +1,12 @@
+C:\Users\chino\Documents\Visual Studio 2019\Projects\Vehicles\Vehicles.Common\bin\Debug\net5.0\Vehicles.Common.deps.json
+C:\Users\chino\Documents\Visual Studio 2019\Projects\Vehicles\Vehicles.Common\bin\Debug\net5.0\Vehicles.Common.dll
+C:\Users\chino\Documents\Visual Studio 2019\Projects\Vehicles\Vehicles.Common\bin\Debug\net5.0\ref\Vehicles.Common.dll
+C:\Users\chino\Documents\Visual Studio 2019\Projects\Vehicles\Vehicles.Common\bin\Debug\net5.0\Vehicles.Common.pdb
+C:\Users\chino\Documents\Visual Studio 2019\Projects\Vehicles\Vehicles.Common\obj\Debug\net5.0\Vehicles.Common.csproj.AssemblyReference.cache
+C:\Users\chino\Documents\Visual Studio 2019\Projects\Vehicles\Vehicles.Common\obj\Debug\net5.0\Vehicles.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chino\Documents\Visual Studio 2019\Projects\Vehicles\Vehicles.Common\obj\Debug\net5.0\Vehicles.Common.AssemblyInfoInputs.cache
+C:\Users\chino\Documents\Visual Studio 2019\Projects\Vehicles\Vehicles.Common\obj\Debug\net5.0\Vehicles.Common.AssemblyInfo.cs
+C:\Users\chino\Documents\Visual Studio 2019\Projects\Vehicles\Vehicles.Common\obj\Debug\net5.0\Vehicles.Common.csproj.CoreCompileInputs.cache
+C:\Users\chino\Documents\Visual Studio 2019\Projects\Vehicles\Vehicles.Common\obj\Debug\net5.0\Vehicles.Common.dll
+C:\Users\chino\Documents\Visual Studio 2019\Projects\Vehicles\Vehicles.Common\obj\Debug\net5.0\ref\Vehicles.Common.dll
+C:\Users\chino\Documents\Visual Studio 2019\Projects\Vehicles\Vehicles.Common\obj\Debug\net5.0\Vehicles.Common.pdb
